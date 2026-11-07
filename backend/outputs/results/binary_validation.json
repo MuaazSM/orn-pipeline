@@ -1,0 +1,11 @@
+{
+  "status": "PASSED",
+  "auc": 0.740420939017809,
+  "auc_ci": [
+    0.6570538643083501,
+    0.8138707079008843
+  ],
+  "benchmark": 0.74,
+  "best_model": "random_forest",
+  "imbalance_strategy": "class_weight"
+}

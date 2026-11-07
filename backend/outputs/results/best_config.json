@@ -1,0 +1,20 @@
+{
+  "formulation": "5class",
+  "feature_set": "set_a",
+  "model": "random_forest",
+  "imbalance_strategy": "class_weight",
+  "macro_f1_mean": 0.2669406041258281,
+  "macro_f1_std": 0.0321180368981004,
+  "balanced_acc_mean": 0.29515583144590773,
+  "balanced_acc_std": 0.04233619234958757,
+  "class_0_f1_mean": 0.8962032152733512,
+  "class_0_f1_std": 0.01584165952265855,
+  "class_1_f1_mean": 0.13,
+  "class_1_f1_std": 0.1661324772583615,
+  "class_2_f1_mean": 0.09444444444444444,
+  "class_2_f1_std": 0.11600340565456166,
+  "class_3_f1_mean": 0.0,
+  "class_3_f1_std": 0.0,
+  "class_4_f1_mean": 0.2140553609113447,
+  "class_4_f1_std": 0.15286367139817703
+}
