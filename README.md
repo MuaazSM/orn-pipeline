@@ -126,4 +126,4 @@ Open http://localhost:3000.
 ## Related work in this repository
 
 - `impact_study/` — implementation study of the IMPACT jaw-segmentation paper (data exploration, code audit, plan). See `impact_study/README.md`.
-- `docs/` — Semester 5 presentation decks (PDF, plus the IMPACT deck as PowerPoint).
+- `docs/` — Semester 5 final report (PDF) and presentation decks (PDF, plus the IMPACT deck as PowerPoint).
