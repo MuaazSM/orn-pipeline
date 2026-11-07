@@ -1,0 +1,128 @@
+{
+ "mandible": {
+  "1": {
+   "n": 7,
+   "dmean_med": 38.7,
+   "dmean_min": 14.4,
+   "dmean_max": 47.7,
+   "dmax_med": 60.7
+  },
+  "2": {
+   "n": 7,
+   "dmean_med": 39.2,
+   "dmean_min": 7.7,
+   "dmean_max": 56.0,
+   "dmax_med": 62.0
+  },
+  "3": {
+   "n": 7,
+   "dmean_med": 30.3,
+   "dmean_min": 17.4,
+   "dmean_max": 56.6,
+   "dmax_med": 49.6
+  },
+  "4": {
+   "n": 7,
+   "dmean_med": 47.9,
+   "dmean_min": 16.6,
+   "dmean_max": 53.6,
+   "dmax_med": 59.7
+  },
+  "5": {
+   "n": 7,
+   "dmean_med": 45.5,
+   "dmean_min": 12.4,
+   "dmean_max": 59.6,
+   "dmax_med": 59.1
+  },
+  "6": {
+   "n": 7,
+   "dmean_med": 30.1,
+   "dmean_min": 13.6,
+   "dmean_max": 55.8,
+   "dmax_med": 39.4
+  }
+ },
+ "maxilla": {
+  "1": {
+   "n": 2,
+   "dmean_med": 37.7,
+   "dmean_min": 13.8,
+   "dmean_max": 61.7,
+   "dmax_med": 39.5
+  },
+  "2": {
+   "n": 1,
+   "dmean_med": 12.7,
+   "dmean_min": 12.7,
+   "dmean_max": 12.7,
+   "dmax_med": 15.6
+  },
+  "3": {
+   "n": 2,
+   "dmean_med": 38.2,
+   "dmean_min": 14.7,
+   "dmean_max": 61.8,
+   "dmax_med": 39.7
+  },
+  "4": {
+   "n": 7,
+   "dmean_med": 38.7,
+   "dmean_min": 4.3,
+   "dmean_max": 62.4,
+   "dmax_med": 51.7
+  },
+  "5": {
+   "n": 6,
+   "dmean_med": 22.8,
+   "dmean_min": 4.3,
+   "dmean_max": 32.0,
+   "dmax_med": 36.3
+  },
+  "6": {
+   "n": 7,
+   "dmean_med": 17.1,
+   "dmean_min": 2.2,
+   "dmean_max": 61.4,
+   "dmax_med": 24.4
+  }
+ },
+ "teeth": {
+  "Upper central": {
+   "n": 7,
+   "dmean_med": 18.4,
+   "min": 3.1,
+   "max": 54.9
+  },
+  "Upper premolars": {
+   "n": 7,
+   "dmean_med": 26.4,
+   "min": 5.4,
+   "max": 56.3
+  },
+  "Upper molars": {
+   "n": 7,
+   "dmean_med": 30.8,
+   "min": 11.9,
+   "max": 58.5
+  },
+  "Lower central": {
+   "n": 7,
+   "dmean_med": 27.7,
+   "min": 12.1,
+   "max": 58.3
+  },
+  "Lower premolars": {
+   "n": 7,
+   "dmean_med": 36.3,
+   "min": 14.6,
+   "max": 58.2
+  },
+  "Lower molars": {
+   "n": 7,
+   "dmean_med": 42.5,
+   "min": 20.4,
+   "max": 58.0
+  }
+ }
+}

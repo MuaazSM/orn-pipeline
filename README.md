@@ -122,3 +122,8 @@ Open http://localhost:3000.
 ## Disclaimer
 
 **Research prototype. Not validated for clinical use. Do not use to inform patient care decisions.**
+
+## Related work in this repository
+
+- `impact_study/` — implementation study of the IMPACT jaw-segmentation paper (data exploration, code audit, plan). See `impact_study/README.md`.
+- `docs/` — Semester 5 presentation decks (PDF, plus the IMPACT deck as PowerPoint).

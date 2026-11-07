@@ -1,0 +1,184 @@
+{
+ "mandible": {
+  "1": {
+   "label": "Right basal",
+   "color": "#2A9D8F"
+  },
+  "2": {
+   "label": "Left basal",
+   "color": "#8FC1AE"
+  },
+  "3": {
+   "label": "Central basal",
+   "color": "#3D5A80"
+  },
+  "4": {
+   "label": "Right alveolar",
+   "color": "#E76F51"
+  },
+  "5": {
+   "label": "Left alveolar",
+   "color": "#F4A261"
+  },
+  "6": {
+   "label": "Central alveolar",
+   "color": "#E9C46A"
+  }
+ },
+ "maxilla": {
+  "1": {
+   "label": "Right basal",
+   "color": "#2A9D8F"
+  },
+  "2": {
+   "label": "Left basal",
+   "color": "#8FC1AE"
+  },
+  "3": {
+   "label": "Central basal",
+   "color": "#3D5A80"
+  },
+  "4": {
+   "label": "Right alveolar",
+   "color": "#E76F51"
+  },
+  "5": {
+   "label": "Left alveolar",
+   "color": "#F4A261"
+  },
+  "6": {
+   "label": "Central alveolar",
+   "color": "#E9C46A"
+  }
+ },
+ "teeth": {
+  "6": {
+   "label": "Tooth 6",
+   "color": "#E9C46A"
+  },
+  "7": {
+   "label": "Tooth 7",
+   "color": "#C9A13F"
+  },
+  "8": {
+   "label": "Tooth 8",
+   "color": "#E9C46A"
+  },
+  "9": {
+   "label": "Tooth 9",
+   "color": "#C9A13F"
+  },
+  "10": {
+   "label": "Tooth 10",
+   "color": "#E9C46A"
+  },
+  "11": {
+   "label": "Tooth 11",
+   "color": "#C9A13F"
+  },
+  "4": {
+   "label": "Tooth 4",
+   "color": "#F4A261"
+  },
+  "5": {
+   "label": "Tooth 5",
+   "color": "#D9803D"
+  },
+  "12": {
+   "label": "Tooth 12",
+   "color": "#F4A261"
+  },
+  "13": {
+   "label": "Tooth 13",
+   "color": "#D9803D"
+  },
+  "1": {
+   "label": "Tooth 1",
+   "color": "#E76F51"
+  },
+  "2": {
+   "label": "Tooth 2",
+   "color": "#C24E33"
+  },
+  "3": {
+   "label": "Tooth 3",
+   "color": "#E76F51"
+  },
+  "14": {
+   "label": "Tooth 14",
+   "color": "#C24E33"
+  },
+  "15": {
+   "label": "Tooth 15",
+   "color": "#E76F51"
+  },
+  "16": {
+   "label": "Tooth 16",
+   "color": "#C24E33"
+  },
+  "22": {
+   "label": "Tooth 22",
+   "color": "#8FC1AE"
+  },
+  "23": {
+   "label": "Tooth 23",
+   "color": "#5FA08A"
+  },
+  "24": {
+   "label": "Tooth 24",
+   "color": "#8FC1AE"
+  },
+  "25": {
+   "label": "Tooth 25",
+   "color": "#5FA08A"
+  },
+  "26": {
+   "label": "Tooth 26",
+   "color": "#8FC1AE"
+  },
+  "27": {
+   "label": "Tooth 27",
+   "color": "#5FA08A"
+  },
+  "20": {
+   "label": "Tooth 20",
+   "color": "#2A9D8F"
+  },
+  "21": {
+   "label": "Tooth 21",
+   "color": "#1D7A6F"
+  },
+  "28": {
+   "label": "Tooth 28",
+   "color": "#2A9D8F"
+  },
+  "29": {
+   "label": "Tooth 29",
+   "color": "#1D7A6F"
+  },
+  "17": {
+   "label": "Tooth 17",
+   "color": "#3D5A80"
+  },
+  "18": {
+   "label": "Tooth 18",
+   "color": "#2B4262"
+  },
+  "19": {
+   "label": "Tooth 19",
+   "color": "#3D5A80"
+  },
+  "30": {
+   "label": "Tooth 30",
+   "color": "#2B4262"
+  },
+  "31": {
+   "label": "Tooth 31",
+   "color": "#3D5A80"
+  },
+  "32": {
+   "label": "Tooth 32",
+   "color": "#2B4262"
+  }
+ }
+}

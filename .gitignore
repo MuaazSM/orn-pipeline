@@ -19,3 +19,6 @@ backend/outputs/results/shap_values.npy
 node_modules/
 .next/
 .env*
+
+# IMPACT CT downloads
+impact_study/data/
